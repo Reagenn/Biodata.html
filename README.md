@@ -30,8 +30,8 @@
         </tr>
     </table>
     <h1 align="center">JADWAL KRS</h1>
-    <tr>
-        <td align="middle"><img src="krs.jpg" width="800" length="1200"></td>
-    </tr>
+    <p align="center">
+        <td><img src="krs.jpg" width="800" length="1200"></td>
+    </p>
 </body>
 </html>
