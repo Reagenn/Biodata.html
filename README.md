@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Membuat Biodata Mahasiswa</title>
+    
 </head>
 <body>
     <h1 align="center">Biodata Mahasiswa</h1>
@@ -38,7 +38,7 @@
                 margin-right: auto;
             }
             </style>
-        <td><img src="krs.jpg" width="800" length="1200"></td>
+        
     </tr>
 </body>
 </html>
