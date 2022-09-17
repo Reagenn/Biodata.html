@@ -31,7 +31,7 @@
     </table>
     <h1 align="center">JADWAL KRS</h1>
     <tr>
-        <td rowspan="50%"><img src="krs.jpg" width="800" length="1200"></td>
+        <td align="middle"><img src="krs.jpg" width="800" length="1200"></td>
     </tr>
 </body>
 </html>
