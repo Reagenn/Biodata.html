@@ -29,9 +29,9 @@
             <td>Semarang</td>
         </tr>
     </table>
+    <h1 align="center">JADWAL KRS</h1>
     <center>
-    <h1>JADWAL KRS</h1>
-    <tr >
+    <tr>
         <td><img src="krs.jpg" width="800" length="1200"></td>
     </tr>
     </center>
