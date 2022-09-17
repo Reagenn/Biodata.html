@@ -36,9 +36,9 @@
                 margin-left: auto;
                 margin-right: auto;
             }
-            </style>
     <tr>
         <td><img src="krs.jpg" width="800" length="1200"></td>
     </tr>
+    </style>
 </body>
 </html>
