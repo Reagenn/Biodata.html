@@ -31,14 +31,7 @@
     </table>
     <h1 align="center">JADWAL KRS</h1>
     <tr>
-        <style>
-            img {
-                display: block;
-                margin-left: auto;
-                margin-right: auto;
-            }
-            </style>
-        
+        <td><img src="krs.jpg" width="800" length="1200"></td>
     </tr>
 </body>
 </html>
